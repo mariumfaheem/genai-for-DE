@@ -1,6 +1,8 @@
 EMPLOYMENT AGREEMENT
 
-This Employment Agreement ("Agreement") is made and entered into as of July 30, 2024, by and between ABC Technologies, Inc. ("Company") and John Doe ("Employee").
+This Empl
+
+oyment Agreement ("Agreement") is made and entered into as of July 30, 2024, by and between ABC Technologies, Inc. ("Company") and John Doe ("Employee").
 
 1. Position and Duties
 1.1 Position: The Company hereby employs the Employee as Senior Software Developer.
